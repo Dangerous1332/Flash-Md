@@ -1,8 +1,8 @@
 {
-  "name":"FLASH-MD",
+  "name":"SHANI-MD",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+  "logo":"https://telegra.ph/file/ef6310e3e63965b1258fe.jpg",
   "repository":"https://github.com/franceking1/Flash-Md",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/ef6310e3e63965b1258fe.jpg",
       "required":false
        
      },
@@ -72,9 +72,9 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "SHANI_MD",
     "required": false,
-    "value": "France King"
+    "value": "SHANI_RAJPUT"
   },
     "OWNER_NUMBER":
   {
